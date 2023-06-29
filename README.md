@@ -1,16 +1,18 @@
-### Hi there 👋
+# <p align="center">Hi 👋, I'm Manikant Kumar</p>
 
-<!--
-**Manikantkr-1004/Manikantkr-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>I'm Manikant Kumar, a Full Stack Web Developer with expertise in HTML, CSS, JavaScript, React, and Chakra UI. Skilled in creating professional and engaging web applications and passionate about continuous learning and exploring new technologies.</b></p><br/>
 
-Here are some ideas to get you started:
+  
+- 🪴 I’m currently learning **Full Stack Web Development.**
+- 📫 How to reach me **loveuzindagi212@gmail.com**
+- **Portfolio - [Click here](https://manikantkr-1004.github.io/)**
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<a href="https://www.linkedin.com/in/manikantofficial2023/"><img src="https://github.com/Manikantkr-1004/Manikantkr-1004/assets/123896779/5aec5788-657b-4720-adce-e4715956ddea" alt="manikant-linkedin" width="30px" height="30px" /></a>
+<a href="mailto:loveuzindagi212@gmail.com"><img src="https://github.com/Manikantkr-1004/Manikantkr-1004/assets/123896779/ab2fa647-55a2-4e53-8c04-ad5c109cb958" alt="manikant-email" width="30px" height="30px" /></a>
+
+
+
+
+
