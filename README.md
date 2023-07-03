@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://manikantkr-1004.github.io/](https://manikantkr-1004.github.io/)
+- 👨‍💻 All of my projects are available at **[Portfolio](https://manikantkr-1004.github.io/)**
 
 - 📫 How to reach me **loveuzindagi212@gmail.com**
 
