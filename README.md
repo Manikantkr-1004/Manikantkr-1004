@@ -1,11 +1,11 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://github.com/Manikantkr-1004)
 <h1 align="center">Hi 👋, I'm Manikant kumar</h1>
+<h1>About me</h1>
 <h3 align="center">A Full Stack Web Developer with expertise in HTML, CSS, JavaScript, React, and Chakra UI. Skilled in creating professional and engaging web applications and passionate about continuous learning and exploring new technologies.</h3>
+Portfolio :- https://manikantkr-1004.github.io/
 <br/>
 <img align="right" alt="manikant" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
-
-Portfolio :- https://manikantkr-1004.github.io/
 
 - 📫 How to reach me **loveuzindagi212@gmail.com**
 
