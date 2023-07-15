@@ -8,7 +8,7 @@
 
 - 🔭 Currently pursuing Full Stack Web Development (Full Time) Course at Masai School, Bengaluru.
 
-- 🔗 Portfolio : https://manikantkr-1004.github.io/
+- 🔗 Portfolio : https://manikantkr-1004.github.io
 
 - 📄 Resume : [Resume Link](https://drive.google.com/file/d/1v101nto8M20QbFkWdLUNZ7SP9-8LHSSJ/view?usp=drive_link)
 
