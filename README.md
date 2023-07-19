@@ -6,7 +6,7 @@
 <img align="right" alt="manikant" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
-- 🧑‍💻 Portfolio : https://manikantkr-1004.github.io/
+- 🧑‍💻 My all projects are available in : [manikantkr-1004.github.io](https://manikantkr-1004.github.io)
 - 📫 How to reach me **loveuzindagi212@gmail.com**
 - 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1v101nto8M20QbFkWdLUNZ7SP9-8LHSSJ/view?usp=drive_link)**
 
