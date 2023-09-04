@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development.**
 - 🧑‍💻 My all projects are available in : [manikantkr-1004.github.io](https://manikantkr-1004.github.io)
 - 📫 How to reach me **loveuzindagi212@gmail.com**
-- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1v101nto8M20QbFkWdLUNZ7SP9-8LHSSJ/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume Link](https://github.com/Manikantkr-1004/Manikantkr-1004/files/12511629/Manikant_Kumar_Resume.pdf)**
 
 
 <h3 align="left">Connect with me:</h3>
