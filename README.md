@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHixHdlaVGZUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685467406963?e=1732147200&v=beta&t=OgGYzad5eZ1N4MFyoAtN9Cxs0Ys9oYvZoknyAXen3FM)](https://github.com/Manikantkr-1004)
 <h1 align="center">Hi 👋, I'm Manikant kumar</h1> 
 
-<h4 align="center">I am a highly motivated Full Stack Web Developer with 7 months of hands on Experience expertise in MERN stack. My journey includes an intensive 1200+ hour web development program at Masai School, where I honed my skills in frontend and backend development. I have a knack for implementing innovative solutions and thrive in collaborative engineering environments. My meticulous attention to detail and passion for problem-solving are key drivers that set me apart in the field.</h4>
+<p align="center">I am a highly motivated Full Stack Web Developer with 7 months of hands on Experience expertise in MERN stack. My journey includes an intensive 1200+ hour web development program at Masai School, where I honed my skills in frontend and backend development. I have a knack for implementing innovative solutions and thrive in collaborative engineering environments. My meticulous attention to detail and passion for problem-solving are key drivers that set me apart in the field.</p>
 <br/>
 <img align="right" alt="manikant" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif"/>
 
