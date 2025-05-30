@@ -8,7 +8,7 @@
 - 🌱 I’m a **Full Stack Web Developer.**
 - 🧑‍💻 My all projects are available in : [manikantkr-1004.github.io](https://manikantkr-1004.github.io)
 - 📫 How to reach me **manikantobra@gmail.com**
-- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1GypJDDU8CqUEX9FQEpTNLlPWZuzKhUUC/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1JX0x0TlzWKIg2job7RJBRAASFkYkCfAs/view?usp=sharing)**
 
 
 <h3 align="left">Connect with me:</h3>
