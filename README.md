@@ -1,9 +1,11 @@
-[![MasterHead](https://i.imgur.com/IAknwGn.webp)](https://github.com/Manikantkr-1004)
+[![MasterHead](https://github.com/user-attachments/assets/5b73e348-637b-4be9-8c56-1df76ec622d3)](https://manikantkr-1004.github.io)
+
 <h1 align="center">Hi 👋, I'm Manikant kumar</h1> 
 
-<p align="center">I am a highly motivated Full Stack Web Developer with 7 months of hands on Experience expertise in MERN stack. My journey includes an intensive 1200+ hour web development program at Masai School, where I honed my skills in frontend and backend development. I have a knack for implementing innovative solutions and thrive in collaborative engineering environments. My meticulous attention to detail and passion for problem-solving are key drivers that set me apart in the field.</p>
+<p align="center">I am a highly motivated Full Stack Web Developer with 1 years of hands on Experience expertise in MERN stack. My journey includes an intensive 1200+ hour web development program at Masai School, where I honed my skills in frontend and backend development. I have a knack for implementing innovative solutions and thrive in collaborative engineering environments. My meticulous attention to detail and passion for problem-solving are key drivers that set me apart in the field.</p>
 <br/>
-<img align="right" alt="manikant" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif"/>
+
+<img align="right" alt="manikant" width="400" src="https://github.com/user-attachments/assets/0a1b3e47-78e2-4f91-946d-fff4db0dec1f"/>
 
 - 🌱 I’m a **Full Stack Web Developer.**
 - 🧑‍💻 My all projects are available in : [manikantkr-1004.github.io](https://manikantkr-1004.github.io)
@@ -18,20 +20,27 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="html5" width="35" height="40" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css3" width="35" height="40" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" alt="javascript" width="35" height="35" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" alt="react" width="35" height="35" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="redux" width="40" height="40" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.png" alt="typescript" width="35" height="35" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="tailwind" width="35" height="35" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="35" height="35" />
-  <img src="https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png" alt="chakra" width="40" height="40" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.png" alt="nodejs" width="35" height="40" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" alt="expressjs" width="35" height="35" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png" alt="mongo" width="30" height="40" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="vscode" width="35" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/html.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/css.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/javascript.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/react.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/next.webp" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/redux.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/redis.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/typescript.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/authjs.webp" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/betterauth.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/nodejs.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/express.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/mongodb.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/chakra_ui.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/tailwind.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/tanstack.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/pwa.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/oauth.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/firebase.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/postman.png" width="40" height="40" />
+  <img src="https://manikantkr-1004.github.io/Images/ai.png" width="40" height="40" />
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
